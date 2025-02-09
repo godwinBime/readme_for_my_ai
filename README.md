@@ -1,6 +1,6 @@
 # readme_for_my_ai
 
-request for permission to the full private repository of the project found in th elink below
+request for permission to the full private repository of the project found in the link below
 
 ### https://github.com/godwinBime/my_ai
 
