@@ -1,6 +1,7 @@
 # readme_for_my_ai
 
-request for permission to the full private repository of the project found in the link below
+request for permission (recruiters only) to the full private repository of the project found in the link below
+at groupproject.mscs@gmail.com
 
 ### https://github.com/godwinBime/my_ai
 
@@ -23,3 +24,8 @@ This AI chatbot uses the safety protocols built into the Germini API.
 This AI chatbot is multi-modal.
 Users can upload a photo and tell the chatbot what to look for in the image.    
 It is free based on the free tier offered by Google.
+
+
+============== Sample chat screenshot ============    
+![Chatbot_sample_chat](https://github.com/user-attachments/assets/c1ab9b4c-26f3-4ca4-b02d-e949eb62fab1)
+
