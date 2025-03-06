@@ -25,6 +25,8 @@ This AI chatbot is multi-modal.
 Users can upload a photo and tell the chatbot what to look for in the image.    
 It is free based on the free tier offered by Google.
 
+======== Knowledge cutoff --> August 2024 ================    
+
 
 ============== Sample chat screenshot ============    
 ![Chatbot_sample_chat](https://github.com/user-attachments/assets/c1ab9b4c-26f3-4ca4-b02d-e949eb62fab1)
