@@ -28,6 +28,10 @@ It is free based on the free tier offered by Google.
 ======== Knowledge cutoff --> August 2024 ================    
 
 
+=============== Download APK and test through the following link(s) ===============  
+https://github.com/godwinBime/readme_for_my_ai/blob/011eeec623e9aa64f3dfe79ab7f67e4b27a0f904/app-release.apk    
+
+
 ============== Sample chat screenshot ============    
 ![Chatbot_sample_chat](https://github.com/user-attachments/assets/c1ab9b4c-26f3-4ca4-b02d-e949eb62fab1)
 
