@@ -1,7 +1,6 @@
 # readme_for_my_ai
 
-request for permission (recruiters only) to the full private repository of the project found in the link below
-at groupproject.mscs@gmail.com
+request for permission using the email found in my resume (for the mean time, recruiters only) to the full private repository of the project found in the link below.    
 
 ### https://github.com/godwinBime/my_ai
 
